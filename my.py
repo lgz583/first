@@ -144,18 +144,4 @@ for scentence in data:
     
 output.close
 
-<<<<<<< HEAD
-#haipa
-<<<<<<< HEAD
-#diercishiyong
-=======
->>>>>>> parent of 46ce1c6... 修改
-=======
->>>>>>> parent of dd15d03... 又修改
-    
-    
-    
-    
 
-
->>>>>>> parent of 4d6a1b4... Revert "第一次用"
