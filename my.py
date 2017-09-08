@@ -67,8 +67,11 @@ for scentence in data:
     
 output.close
 
+<<<<<<< HEAD
 #haipa
 #diercishiyong
+=======
+>>>>>>> parent of 46ce1c6... 修改
     
     
     
